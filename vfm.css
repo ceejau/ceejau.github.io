@@ -1,0 +1,203 @@
+
+
+body{
+    background-color: cornsilk;
+}
+#slideshow > div { 
+    position: absolute; 
+   top: 0px;
+   right: 0px;
+}
+.title{
+    
+    font-size: 100px;
+    color: aliceblue;
+    margin-top:275px;
+    margin-bottom: 275px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+
+}
+.main_desc{
+    text-align: center;
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 27px;
+    color: black;
+    top: 730px;
+}
+
+.hydro_image{
+    border-radius: 15px;
+    top: 26cm;
+    left: 2cm;
+    position:absolute; 
+}
+
+.aero_image{
+    border-radius: 15px;
+    top: 26cm;
+    position: absolute;
+    left: 13cm;  
+}
+
+.aqua_image{
+    border-radius: 15px;
+    top: 26cm;
+    position: absolute;
+    right: 2cm;  
+}
+
+.hydro_name{
+    top: 27.5cm;
+    left: 3.5cm;
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: cornsilk;
+}
+
+.aero_name{
+    top: 27.5cm;
+    left: 15cm;
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: cornsilk;
+}
+
+.aqua_name{
+    top: 27.5cm;
+    right: 3.5cm;
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: cornsilk;
+}
+
+.hydro_desc{
+    top: 31cm;
+    position: absolute;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    left: 2cm;
+}
+
+.aero_desc{
+    top: 31cm;
+    position: absolute;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    left: 13cm;  
+
+}
+
+.aqua_desc{
+    top: 31cm;
+    position: absolute;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    right: 3.5cm;
+
+
+}
+.youtube{
+    position: relative;
+    top: 30cm;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 18px;
+
+    
+}
+.video{
+    text-align: center;
+    position: relative;
+    top: 30cm;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.pros{
+    position: relative;
+    top: 29cm;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: left;
+    left: 9cm;
+    right: 9cm;
+    margin: 40px;
+    color: darkolivegreen;
+}
+
+.pro{
+    position:relative;
+    text-align: left;
+    left: 9.5cm;
+    right: 9cm;
+    margin: 40px;
+    top:30cm;
+    font-family: Arial, Helvetica, sans-serif;
+    color: forestgreen;
+}
+.gallery{
+    top: 1100px;
+    text-align: center;
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    color: mediumpurple;
+}
+
+.gallery_images{
+    text-align: center;
+    position: relative;
+    top: 1100px;
+}
+.gallery_desc{
+
+    text-align: center;
+    margin-top: 29.5cm;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+
+}
+.next{
+    text-align: center;
+    border-radius: 18px;
+    margin-bottom: 150px;
+
+
+}
+.prev{
+    text-align: center;
+    border-radius: 18px;
+   margin-bottom: 150px;
+
+}
+.actual_img{
+    text-align: center;
+    border-radius: 18px;
+    margin-top: 0.5cm;
+
+}
+.source{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    font-weight: lighter;
+    margin-bottom: 0.5cm;
+    margin-top: 3cm;
+    text-align: center;
+
+}
+.link{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    text-align: center;
+
+}
